@@ -1,0 +1,23 @@
+{
+  "name": "random-app",
+  "version": "1.0.0",
+  "description": "My First Code",
+  "main": "server.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node.js-First-Steps"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "CamiloBallen24",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
